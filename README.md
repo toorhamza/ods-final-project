@@ -1,10 +1,8 @@
 # Basic Responsive HTML5 & CSS Website (Final Project for Introductory Course)
 
-==================================================================================
 The live version of this website can be viewed on this link.
 
 https://toorhamza.github.io/ods-final-project/
-==================================================================================
 
 This website was the final project for the Orientation to Digital Services course where we learned HTML and CSS.
 
