@@ -1,6 +1,6 @@
 # Basic Responsive HTML5 & CSS Website (Final Project for Introductory Course)
 
-# Please note: I did not focused on overall design for this website and it took me approximately 7-8 hours to complete it. There was a shortage of time.
+# Please note: I did not focused on overall design for this website due to shortage of time.
 
 The live version of this website can be viewed on this link.
 
